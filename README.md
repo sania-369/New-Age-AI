@@ -45,7 +45,7 @@ from typing import Optional, Tuple, Literal
 
 class ETVP_ComplexLayer(nn.Module):
     """
-    ETVP Complex Layer v2.7 — финальная версия после полного аудита Google.
+    ETVP Complex Layer 
 
     Поддерживает:
     - Инкрементальный SDE-шаг (по умолчанию) или генерацию (mode='generate').
