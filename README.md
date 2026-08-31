@@ -2,7 +2,7 @@
 
 **Промышленная реализация причинного комплексного слоя с топологическим ограничением энергии.**
 
-![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
